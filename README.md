@@ -1,1 +1,1 @@
-# Web3 tea protocol
+# Web3 project shell
